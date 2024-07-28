@@ -21,6 +21,7 @@ public class CreateFolders : EditorWindow
       List<string> folders = new List<string>
       {
          "_Scripts",
+         "_Data",
          "Animations",
          "Audio",
          "Editor",
